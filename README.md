@@ -1,1 +1,1 @@
-# tushar-s-manifest
+# XOSP Device tree-manifest
