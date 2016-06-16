@@ -10,7 +10,7 @@ rm -rf hardware/qcom/display
 rm -rf hardware/ril
 rm -rf packages/apps/Snap
 
-git clone https://github.com/CyanogenMod/android_device_oneplus_bacon.git -b cm-13.0 device/oneplus/bacon
+git clone https://github.com/jithumon/android_device_oneplus_bacon.git -b cm-13.0 device/oneplus/bacon
 git clone https://github.com/CyanogenMod/android_kernel_oneplus_msm8974.git -b cm-13.0 kernel/oneplus/msm8974
 git clone https://github.com/sultanxda/proprietary_vendor_oneplus.git -b cm-13.0-sultan vendor/oneplus
 git clone https://github.com/Cyanogenmod/android_device_qcom_common.git -b cm-13.0 device/qcom/common
