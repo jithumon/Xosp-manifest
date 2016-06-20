@@ -1,4 +1,4 @@
-#this is just to clone trees for aosp roms coz I am fucking tired of manually cloning everything xD
+#this is just to clone trees for aosp roms
 rm -rf device/oneplus/bacon
 rm -rf device/oppo/common
 rm -rf device/qcom/common
