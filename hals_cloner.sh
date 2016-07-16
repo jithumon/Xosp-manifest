@@ -3,6 +3,10 @@ git clone https://github.com/CyanogenMod/android_hardware_qcom_audio -b cm-13.0-
 git clone https://github.com/CyanogenMod/android_hardware_qcom_media -b cm-13.0-caf-8996 hardware/qcom/media-caf/msm8996
 git clone https://github.com/CyanogenMod/android_hardware_qcom_bt -b cm-13.0-caf hardware/qcom/bt
 git clone https://github.com/CyanogenMod/android_hardware_ril-caf -b cm-13.0-caf hardware/ril-caf
+git clone https://github.com/CyanogenMod/android_external_dhcpcd -b cm-13.0 external/dhcpcd
+git clone https://github.com/CyanogenMod/android_vendor_qcom_opensource_data-ipa-cfg-mgr vendor/qcom/opensource/data-ipa-cfg-mgr
+
+https://github.com/CyanogenMod/android_external_dhcpcd.git
 https://github.com/CyanogenMod/android_hardware_ril-caf.git
 git clone https://github.com/CyanogenMod/android_vendor_qcom_opensource_dataservices.git -b cm-13.0 vendor/qcom/opensource/dataservices
 
