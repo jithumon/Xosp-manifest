@@ -34,17 +34,17 @@ git clone https://github.com/CyanogenMod/android_external_mksh.git -b cm-14.0 ex
 git clone https://github.com/CyanogenMod/android_external_lz4.git -b cm-14.0 external/lz4
 
 
-git clone https://github.com/CyanogenMod/android_device_oneplus_oneplus3.git -b cm-14.0 device/oneplus/oneplus3
-git clone https://github.com/CyanogenMod/android_kernel_oneplus_msm8996.git -b cm-14.0 kernel/oneplus/msm8996
-git clone https://github.com/Cyanogenmod/android_device_oppo_common.git -b cm-14.0 device/oppo/common
-git clone https://github.com/Cyanogenmod/android_device_qcom_common.git -b cm-14.0 device/qcom/common
+git clone https://github.com/CyanogenMod/android_device_oneplus_oneplus3.git -b cm-14.1 device/oneplus/oneplus3
+git clone https://github.com/CyanogenMod/android_kernel_oneplus_msm8996.git -b cm-14.1 kernel/oneplus/msm8996
+git clone https://github.com/Cyanogenmod/android_device_oppo_common.git -b cm-14.1 device/oppo/common
+git clone https://github.com/Cyanogenmod/android_device_qcom_common.git -b cm-14.1 device/qcom/common
 
-git clone https://github.com/CyanogenMod/android_vendor_nxp-nfc_opensource_Nfc.git -b cm-14.0 vendor/nxp-nfc/opensource/Nfc
-git clone https://github.com/CyanogenMod/android_vendor_nxp-nfc_opensource_frameworks.git -b cm-14.0 vendor/nxp-nfc/opensource/frameworks
-git clone https://github.com/CyanogenMod/android_vendor_nxp-nfc_opensource_libnfc-nci.git -b cm-14.0 vendor/nxp-nfc/opensource/libnfc-nci
-git clone https://github.com/CyanogenMod/android_hardware_qcom_display.git -b cm-14.0 hardware/qcom/display
-git clone https://github.com/TheMuppets/proprietary_vendor_oneplus.git -b cm-14.0 vendor/oneplus
-git clone https://github.com/TheMuppets/proprietary_vendor_qcom_binaries.git -b cm-14.0 vendor/qcom/binaries
+git clone https://github.com/CyanogenMod/android_vendor_nxp-nfc_opensource_Nfc.git -b cm-14.1 vendor/nxp-nfc/opensource/Nfc
+git clone https://github.com/CyanogenMod/android_vendor_nxp-nfc_opensource_frameworks.git -b cm-14.1 vendor/nxp-nfc/opensource/frameworks
+git clone https://github.com/CyanogenMod/android_vendor_nxp-nfc_opensource_libnfc-nci.git -b cm-14.1 vendor/nxp-nfc/opensource/libnfc-nci
+git clone https://github.com/CyanogenMod/android_hardware_qcom_display.git -b cm-14.1 hardware/qcom/display
+git clone https://github.com/TheMuppets/proprietary_vendor_oneplus.git -b cm-14.1 vendor/oneplus
+git clone https://github.com/TheMuppets/proprietary_vendor_qcom_binaries.git -b cm-14.1 vendor/qcom/binaries
 
 git clone https://github.com/CyanogenMod/android_kernel_oneplus_msm8996.git -b cm-13.0 kernel/oneplus/msm8996
 git clone https://github.com/CyanogenMod/android_vendor_nxp-nfc_opensource_Nfc.git -b cm-13.0 vendor/nxp-nfc/opensource/Nfc
